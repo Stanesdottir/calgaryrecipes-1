@@ -1,4 +1,4 @@
-Ingredients:
+##Ingredients:
 2 large or 3 medium beets, thoroughly washed
 2 large or 3 medium potatoes, sliced into bite-sized pieces
 4 Tbsp of cooking oil
@@ -11,6 +11,7 @@ Ingredients:
 6 cups chicken broth
 5 Tbsp ketchup
 4 Tbsp lemon juice
+
 1/4 tsp freshly ground pepper
 1 Tbsp chopped dill
 
